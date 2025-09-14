@@ -2,7 +2,6 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-    private static int[][] offset = {{0, 0}, {0, 1}, {1, 0}, {1, 1}};
     public static void main(String[] args) {
         FastReader sc = new FastReader();
         int N = sc.nextInt();
